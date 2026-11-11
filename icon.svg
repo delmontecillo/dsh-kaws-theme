@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="KAWS Theme">
+  <defs>
+    <linearGradient id="kaws-accent" x1="7" y1="0" x2="57" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DC143C"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#0A0A0B"/>
+  <rect x="7" y="7" width="50" height="50" rx="12" fill="none" stroke="#F4F0E6" stroke-width="2.5"/>
+  <g fill="none" stroke="#F4F0E6" stroke-width="4.5" stroke-linecap="round">
+    <path d="M18 20l11 11M29 20L18 31"/>
+    <path d="M35 20l11 11M46 20L35 31"/>
+    <path d="M22 45h20"/>
+  </g>
+  <path d="M7 53h50" stroke="url(#kaws-accent)" stroke-width="5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,3 @@
+- insert:
+    - id: kaws-theme
+      name: '@kaws/dsh-theme'
